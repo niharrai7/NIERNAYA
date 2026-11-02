@@ -8,7 +8,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 > **Data-Driven Crop Health Analytics and Nutrient Deficiency Detection using Explainable Machine Learning and Computer Vision**  
-> GitHub Repository: [sp5900638-max/AgriAI](https://github.com/sp5900638-max/AgriAI)
+> GitHub Repository: [niharrai7/NIERNAYA](https://github.com/niharrai7/NIERNAYA)
 
 ---
 
@@ -99,7 +99,7 @@ flowchart TD
 ## 📁 Repository Structure
 
 ```text
-sp5900638-max/AgriAI/
+niharrai7/NIERNAYA/
 ├── .gitignore                    # Excludes virtual environments, pycache, keys, and models
 ├── .streamlit/
 │   └── config.toml               # Hardened production server, XSRF protection, and upload caps
@@ -156,8 +156,8 @@ sp5900638-max/AgriAI/
 
 ### 1. Clone Repository & Setup Virtual Environment
 ```bash
-git clone https://github.com/sp5900638-max/AgriAI.git
-cd AgriAI
+git clone https://github.com/niharrai7/NIERNAYA.git
+cd NIERNAYA
 
 # Create virtual environment with Python 3.12
 python -m venv .venv
